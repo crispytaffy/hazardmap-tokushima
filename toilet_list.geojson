@@ -1,0 +1,1235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5454017,
+          34.1132552
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島県立防災センター",
+        "address": "北島町鯛浜字大西165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5431307,
+          34.1137176
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "消防学校",
+        "address": "北島町鯛浜字大西159外"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3691863,
+          33.6228813
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島県立南部防災館",
+        "address": "海陽町浅川字西福良43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0115827,
+          34.0409121
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島県立西部防災館（本館）",
+        "address": "美馬市美馬町中鳥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0115827,
+          34.0409121
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島県立西部防災館（別館）",
+        "address": "美馬市美馬町中鳥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5562645,
+          34.0700115
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "消費者情報センター",
+        "address": "徳島市徳島町城内2-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6139252,
+          34.1725482
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鳴門合同庁舎",
+        "address": "鳴門市撫養町立岩字七枚128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4175307,
+          34.0502103
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "動物愛護管理センター",
+        "address": "神山町阿野字長谷333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5600346,
+          34.0655824
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "万代庁舎",
+        "address": "徳島市万代町１丁目1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5581721,
+          34.0697003
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島合同庁舎",
+        "address": "徳島市新蔵町１丁目67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6557049,
+          33.9181187
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "南部総合県民局阿南庁舎",
+        "address": "阿南市富岡町あ王谷46-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5172245,
+          33.7150929
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "南部総合県民局美波庁舎",
+        "address": "美波町奥河内字弁財天17-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3586854,
+          34.0662658
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "吉野川合同庁舎",
+        "address": "吉野川市川島町宮島字南中須736-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1618465,
+          34.0656218
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "西部総合県民局美馬庁舎",
+        "address": "美馬市脇町大字猪尻字建神社下南73-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8105251,
+          34.0303964
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "西部総合県民局三好庁舎",
+        "address": "三好市池田町マチ2415-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.521681,
+          34.1229737
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "東部県税局自動車税庁舎",
+        "address": "徳島市応神町応神産業団地１番地５"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5623115,
+          34.0532027
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "（ときわプラザ）男女共同参画交流センター",
+        "address": "徳島市山城町東浜傍示１−１"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5562645,
+          34.0700115
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "青少年センター",
+        "address": "徳島市徳島町城内2-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5637658,
+          34.0612454
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "中央こども女性相談センター",
+        "address": "徳島市昭和町５丁目5-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5462943,
+          34.0750566
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "郷土文化会館",
+        "address": "徳島市藍場町２丁目14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5539452,
+          34.0800853
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "文学書道館",
+        "address": "徳島市中前川町２丁目22-1外"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4514189,
+          34.1427773
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "埋蔵文化財総合センター",
+        "address": "板野町犬伏字平山86-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5254689,
+          34.0396216
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "文化の森総合公園文化施設",
+        "address": "徳島市八万町向寺山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5549537,
+          34.0703652
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "中央武道館",
+        "address": "徳島市徳島町城の内6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6383891,
+          34.2336476
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鳴門公園第三駐車場",
+        "address": "鳴門市鳴門町土佐泊浦字福池"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6383891,
+          34.2336476
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鳴門公園第四駐車場",
+        "address": "鳴門市鳴門町土佐泊浦字福池"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6383891,
+          34.2336476
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鳴門公園お茶園",
+        "address": "鳴門市鳴門町土佐泊浦字福池"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6383891,
+          34.2336476
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鳴門公園千畳敷",
+        "address": "鳴門市鳴門町土佐泊浦字福池"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6231138,
+          34.2239314
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鳴門公園網干駐車場",
+        "address": "鳴門市鳴門町土佐泊浦字大毛"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1435424,
+          33.8343366
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "剣山山頂あわエコトイレ",
+        "address": "那賀郡那賀町岩倉"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0008674,
+          33.8892379
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "剣山国定公園見ノ越第一駐車場",
+        "address": "三好市東祖谷菅生"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0770134,
+          33.9272043
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "剣山国定公園夫婦池",
+        "address": "美馬郡つるぎ町一宇"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0008674,
+          33.8892379
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "剣山国定公園三嶺山頂",
+        "address": "三好市東祖谷菅生"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0008674,
+          33.8892379
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "剣山国定公園三嶺（名頃駐車場）",
+        "address": "三好市東祖谷菅生"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.659438,
+          33.9217662
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "室戸・阿南海岸国定公園",
+        "address": "阿南市ほか4町"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4532143,
+          33.9931989
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "佐那河内いきものふれあいの里",
+        "address": "佐那河内村大字上字大川原外"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5601973,
+          34.0422212
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "環境首都課分庁舎",
+        "address": "徳島市西新浜町2丁目70-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5607546,
+          34.0699592
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島保健所",
+        "address": "徳島市新蔵町３丁目80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5853994,
+          34.0062015
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "旧徳島保健所小松島支所",
+        "address": "小松島市堀川町1-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3583629,
+          34.0675256
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "吉野川保健所",
+        "address": "吉野川市鴨島町鴨島106-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1566099,
+          34.0565483
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "美馬保健所",
+        "address": "美馬市穴吹町穴吹字明連23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8020929,
+          34.0290423
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "三好保健所",
+        "address": "三好市池田町マチ2542-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6712729,
+          33.9237782
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "南部総合県民局保健福祉環境部阿南庁舎",
+        "address": "阿南市領家町野神319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5562528,
+          34.0611821
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "総合福祉センター",
+        "address": "徳島市中昭和町１丁目2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4248876,
+          33.6367934
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "出羽島診療所",
+        "address": "牟岐町大字牟岐浦字出羽島8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5607546,
+          34.0699592
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "精神保健福祉センタ−",
+        "address": "徳島市新蔵町３丁目80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5257843,
+          34.0844848
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "障がい者交流プラザ",
+        "address": "徳島市南矢三町２丁目1-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.557858,
+          34.0401867
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島県立工業技術センター",
+        "address": "徳島市雑賀町西開11-2外"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5772436,
+          34.1427334
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島とくとくターミナル",
+        "address": "松茂町中喜来字前原東四番越14-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5384215,
+          33.7256614
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "南阿波サンライン第１展望台",
+        "address": "美波町日和佐浦453-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4535761,
+          33.6788289
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "南阿波サンライン第４展望台",
+        "address": "牟岐町大字灘字水落66-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5623115,
+          34.0532027
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "産業観光交流センタ−",
+        "address": "徳島市山城町東浜傍示1-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6492551,
+          33.967118
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "出島野鳥公園",
+        "address": "阿南市那賀川町みどり台1-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0021314,
+          34.0421769
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "美馬野外交流の郷",
+        "address": "美馬市美馬町字境目39-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4412365,
+          34.15347
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "あすたむらんど徳島",
+        "address": "板野郡板野町那東字キビガ谷45-22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.50472,
+          34.0703604
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島家畜保健衛生所",
+        "address": "徳島市南庄町５丁目94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6674022,
+          33.916727
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "徳島家畜保健衛生所阿南支所",
+        "address": "阿南市日開野町谷田483-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3792108,
+          34.0703743
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "西部家畜保健衛生所吉野川庁舎",
+        "address": "吉野川市鴨島町麻植塚字向麻山北136-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9653811,
+          34.0363041
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "西部家畜保健衛生所東みよし庁舎",
+        "address": "東みよし町中庄856-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4235024,
+          34.0227857
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "神山森林公園イルローザの森",
+        "address": "神山町阿野字大地459-1外"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3837561,
+          33.8756839
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "千年の森ふれあい館",
+        "address": "上勝町大字旭字中村66-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4398513,
+          34.0620499
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "農林水産総合技術支援センター（石井）",
+        "address": "石井町石井字石井1660外"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.542794,
+          33.939655
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "農林水産総合技術支援センター（勝浦）",
+        "address": "勝浦町沼江字中筋11-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3982635,
+          34.1276239
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "畜産研究課",
+        "address": "上板町泉谷字砂コウ1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5405115,
+          33.7325304
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "水産研究課美波庁舎",
+        "address": "美波町日和佐浦1-３"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5843011,
+          34.2149676
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "水産研究課鳴門庁舎",
+        "address": "鳴門市瀬戸町堂浦字地廻り壱96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4762493,
+          34.1283358
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "藍住農村青年の家",
+        "address": "藍住町東中富字朏傍示29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3637218,
+          33.5912776
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鞆奥漁港",
+        "address": "海部郡海陽町鞆浦字東町１６１"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3597148,
+          33.5947395
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "鞆奥漁港",
+        "address": "海部郡海陽町鞆浦字山下地先"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4382404,
+          33.6666701
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "牟岐漁港",
+        "address": "海部郡牟岐町大字灘字下浜辺地先"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4764959,
+          33.8131005
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "南部総合県民局県土整備部那賀庁舎",
+        "address": "那賀町吉野字弥八かへ64-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4279915,
+          33.912915
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "東部県土整備局（徳島）正木ダム管理課庁舎",
+        "address": "上勝町大字正木字藤ノ内18-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3540275,
+          34.1475705
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "東部県土整備局（吉野川）宮川内ダム管理所",
+        "address": "阿波市土成町宮川内字平間58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5767071,
+          34.0596031
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "東部県土整備局（徳島）庁舎",
+        "address": "徳島市南末広町6-36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6233847,
+          34.2304832
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "亀浦港公衆便所",
+        "address": "鳴門市鳴門町土佐泊浦字大毛273地先"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6230596,
+          34.1809495
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "岡崎海浜公園公衆便所",
+        "address": "鳴門市撫養町岡崎字二等道路東10地先"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4988407,
+          34.1638353
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "道の駅第九の里公衆便所",
+        "address": "鳴門市大麻町桧字東山田53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4664107,
+          33.8001141
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "川口ダム自然エネルギーミュージアム",
+        "address": "那賀郡那賀町吉野字イヤ谷72-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4612851,
+          33.7971295
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "川口ダム自然エネルギーミュージアム第2駐車場",
+        "address": "那賀郡那賀町鉢字川原畑57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3609107,
+          33.8111697
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "長安口ダム資料館",
+        "address": "那賀郡那賀町長安向イ20-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4528054,
+          34.1504554
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "総合教育センター",
+        "address": "板野町犬伏字東谷1-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4430271,
+          33.6689625
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "牟岐少年自然の家",
+        "address": "牟岐町大字灘字東谷116-35"
+      }
+    }
+  ]
+}
